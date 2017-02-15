@@ -31,7 +31,7 @@ Useful Articles
 Infrastructure
 =======================================================================
 
-* [APPUiO Pruner](https://github.com/appuio/appuio-pruner) - Docker Container pruning old builds, deployments and registry images from an OpenShift cluster.
+* [APPUiO Pruner](https://github.com/appuio/appuio-pruner) - Docker container pruning old builds, deployments and registry images from an OpenShift cluster.
 
 Developer Tools
 =======================================================================
